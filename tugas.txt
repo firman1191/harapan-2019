@@ -1,4 +1,5 @@
 list pembelajaran kedepan 
 -design
 -network
--motor
+-pajakan
+-pendidikan 
