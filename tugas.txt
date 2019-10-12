@@ -1,4 +1,4 @@
 list pembelajaran kedepan 
 -design
 -network
--programer
+-motor
